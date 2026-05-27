@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Header from "../components/Header";
-import { ArrowLeft, ArrowRight, Github, ShieldCheck, MessageSquare, CreditCard, Zap } from "lucide-react";
+import { ArrowLeft, ArrowRight, ShieldCheck, MessageSquare, CreditCard, Zap } from "lucide-react";
 
 const techStack = [
   { name: "Next.js 15", desc: "App Router, server components", color: "bg-maggie-clay" },
